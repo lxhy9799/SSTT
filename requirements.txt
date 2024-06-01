@@ -1,0 +1,230 @@
+about-time==4.2.1
+absl-py==1.4.0
+aiohttp==3.8.4
+aiosignal==1.3.1
+alembic==1.13.1
+alive-progress==3.1.5
+anyio==4.3.0
+appdirs==1.4.4
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+arrow==1.3.0
+asttokens==2.4.0
+async-lru==2.0.4
+async-timeout==4.0.2
+attrs==23.1.0
+autograd==1.6.2
+Babel==2.14.0
+backcall==0.2.0
+beautifulsoup4==4.12.3
+bleach==6.1.0
+bottle==0.12.25
+brotlipy==0.7.0
+cachetools==5.3.0
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1707022139797/work/certifi
+cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+cma==3.2.2
+colorama==0.4.6
+coloredlogs==15.0.1
+colorlog==6.8.2
+comm==0.2.2
+common==0.1.2
+contourpy==1.0.7
+cryptography @ file:///C:/b/abs_8ecplyc3n2/croot/cryptography_1677533105000/work
+cuda-python==12.3.0
+cycler==0.11.0
+debugpy==1.8.1
+decorator==5.1.1
+defusedxml==0.7.1
+Deprecated==1.2.14
+dill==0.3.8
+einops==0.6.1
+exceptiongroup==1.2.0
+executing==1.2.0
+fastjsonschema==2.19.1
+filelock @ file:///C:/b/abs_c7yrhs9uz2/croot/filelock_1672387617533/work
+flatbuffers==23.5.26
+flit_core @ file:///C:/b/abs_eayrusf37u/croot/flit-core_1679397110577/work/source/flit_core
+fonttools==4.39.4
+fqdn==1.5.1
+frozenlist==1.3.3
+fsspec==2023.5.0
+future==1.0.0
+google-auth==2.18.0
+google-auth-oauthlib==1.0.0
+grapheme==0.6.0
+graphviz==0.20.1
+greenlet==3.0.3
+grpcio==1.54.0
+h11==0.14.0
+h5py==2.10.0
+hdf5storage==0.1.19
+hiddenlayer==0.3
+httpcore==1.0.5
+httpx==0.27.0
+humanfriendly==10.0
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+imageio==2.34.0
+images2gif==1.0.1
+importlib-metadata==6.6.0
+importlib-resources==5.12.0
+ipykernel==6.29.4
+ipython==8.12.2
+ipywidgets==8.1.2
+isoduration==20.11.0
+jedi==0.19.0
+Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
+joblib @ file:///C:/b/abs_1anqjntpan/croot/joblib_1685113317150/work
+json5==0.9.24
+jsonpointer==2.4
+jsonschema==4.20.0
+jsonschema-specifications==2023.11.2
+jstyleson==0.0.2
+jupyter==1.0.0
+jupyter-console==6.6.3
+jupyter-events==0.10.0
+jupyter-lsp==2.2.4
+jupyter_client==8.6.1
+jupyter_core==5.7.2
+jupyter_server==2.13.0
+jupyter_server_terminals==0.5.3
+jupyterlab==4.1.5
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.25.4
+jupyterlab_widgets==3.0.10
+kan==0.0.2
+kiwisolver==1.4.4
+lightning-utilities==0.8.0
+linformer-pytorch==0.19.3
+Mako==1.3.2
+Markdown==3.4.3
+markdown-it-py==3.0.0
+MarkupSafe @ file:///C:/ci/markupsafe_1654489871526/work
+mat73==0.63
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+mdurl==0.1.2
+mistune==3.0.2
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+mpmath==1.2.1
+msgpack==1.0.7
+multidict==6.0.4
+natsort==8.4.0
+nbclient==0.10.0
+nbconvert==7.16.3
+nbformat==5.10.3
+nest-asyncio==1.6.0
+networkx @ file:///C:/b/abs_b935xy_9g6/croot/networkx_1678964342510/work
+ninja==1.10.2.4
+nncf==2.8.1
+notebook==7.1.2
+notebook_shim==0.2.4
+numpy @ file:///C:/b/abs_datssh7cer/croot/numpy_and_numpy_base_1672336199388/work
+oauthlib==3.2.2
+onnx==1.16.0
+onnxruntime==1.17.1
+onnxscript==0.1.0.dev20240327
+openvino @ file:///D:/bld/openvino-split_1708639768813/work/src/bindings/python/wheel
+openvino-telemetry @ file:///home/conda/feedstock_root/build_artifacts/openvino-telemetry_1697641598885/work
+optuna==3.6.1
+optuna-dashboard==0.15.1
+overrides==7.7.0
+packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
+pandas==2.0.0
+pandocfilters==1.5.1
+parso==0.8.3
+pickleshare==0.7.5
+Pillow==9.4.0
+pkgutil_resolve_name==1.3.10
+platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
+pooch @ file:///C:/b/abs_a8nmng7d_x/croot/pooch_1695850149827/work
+prometheus_client==0.20.0
+prompt-toolkit==3.0.39
+protobuf==4.23.0
+psutil==5.9.5
+pure-eval==0.2.2
+pyarrow==16.0.0
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycuda==2024.1
+pydot==2.0.0
+Pygments==2.16.1
+pymoo==0.6.1.1
+pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
+pyparsing==3.0.9
+pyreadline3==3.4.1
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-dateutil==2.8.2
+python-json-logger==2.0.7
+pytools==2024.1.1
+pytorch-lightning==2.0.2
+pytz==2023.3
+pywin32==306
+pywinpty==2.0.13
+PyYAML==6.0
+pyzmq==25.1.2
+qtconsole==5.5.1
+QtPy==2.4.1
+ray==2.8.1
+referencing==0.31.1
+requests==2.31.0
+requests-oauthlib==1.3.1
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rich==13.7.1
+rpds-py==0.13.2
+rsa==4.9
+scikit-learn @ file:///C:/b/abs_55olq_4gzc/croot/scikit-learn_1690978955123/work
+scipy==1.10.1
+Send2Trash==1.8.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.1
+soupsieve==2.5
+SQLAlchemy==2.0.30
+stack-data==0.6.2
+sympy @ file:///C:/b/abs_95fbf1z7n6/croot/sympy_1668202411612/work
+tensorboard==2.13.0
+tensorboard-data-server==0.7.0
+tensorrt @ file:///D:/TensorRT-10.0.0.6/python/tensorrt-10.0.0b6-cp38-none-win_amd64.whl
+terminado==0.18.1
+texttable==1.7.0
+thop==0.1.1.post2209072238
+threadpoolctl==3.1.0
+tinycss2==1.2.1
+tomli==2.0.1
+torch==2.0.0
+torch-geometric==2.3.1
+torch-summary==1.4.5
+torch2trt==0.2.0
+torchaudio==2.0.0
+torchmetrics==0.11.4
+torchstat==0.0.7
+torchsummary==1.5.1
+torchvision==0.15.0
+torchviz==0.0.2
+tornado==6.4
+tqdm==4.65.0
+traitlets==5.10.0
+types-python-dateutil==2.9.0.20240316
+typing_extensions==4.11.0
+tzdata==2023.3
+uri-template==1.3.0
+urllib3 @ file:///C:/b/abs_3ce53vrdcr/croot/urllib3_1680254693505/work
+wcwidth==0.2.6
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.7.0
+Werkzeug==2.3.4
+widgetsnbextension==4.0.10
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wrapt==1.16.0
+xlrd==2.0.1
+xlutils==2.0.0
+xlwt==1.3.0
+yarl==1.9.2
+zipp==3.15.0
