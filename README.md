@@ -12,5 +12,5 @@ python evaluate.py
 
 Based on our pre-trained model you get the predictions in our paper.
 
-链接：https://pan.baidu.com/s/1eKWLMyWwsbJ9sRmVC1uY1g 
-提取码：jydr
+The data is available at https://pan.baidu.com/s/1eKWLMyWwsbJ9sRmVC1uY1g 
+extracted code:jydr
