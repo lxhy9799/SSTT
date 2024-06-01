@@ -11,5 +11,5 @@ python evaluate.py
 
 ## Results
 
-Based on our pre-trained model you get the predictions in our paper.
+Based on our pre-trained model you get the prediction results in our paper.
 
