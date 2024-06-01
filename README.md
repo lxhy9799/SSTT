@@ -13,3 +13,7 @@ python evaluate.py
 
 Based on our pre-trained model you get the prediction results in our paper.
 
+## Acknowledgements
+
+We sincerely appreciate [CS-LSTM](https://github.com/nachiket92/conv-social-pooling ),[STDAN](https://github.com/xbchen82/stdan), and [HLTP](https://github.com/Petrichor625/HLTP) for their awesome codebases.
+
