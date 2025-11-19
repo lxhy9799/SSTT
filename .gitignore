@@ -1,0 +1,27 @@
+# IDE
+.idea/
+.vscode/
+
+# Data
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled extensions
+*.so
+
+# Model checkpoints
+*.pth.tar
+checkpoints/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
