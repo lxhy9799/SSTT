@@ -87,7 +87,11 @@ The model is evaluated using:
 
 ## :construction: Development
 
-> **Note**: Full source code will be released soon. The current version includes pre-trained models and evaluation scripts.
+The repository now includes the complete source code implementation, including:
+- Model architecture (`model.py`)
+- Training and evaluation scripts (`evaluate.py`)
+- Data loading utilities (`loader.py`)
+- Pre-trained models for NGSIM dataset
 
 ## :handshake: Acknowledgements
 
