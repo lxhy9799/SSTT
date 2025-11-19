@@ -31,8 +31,7 @@ pip install -r requirements.txt
 ```
 
 3. Download the dataset:
-   - Access the validation and test datasets from [Baidu Netdisk](https://pan.baidu.com/s/1eKWLMyWwsbJ9sRmVC1uY1g)
-   - Extraction code: `jydr`
+   - Download from [Google Drive](https://drive.google.com/drive/folders/1yiNNOMC1twnzxCn4HclaSlMzBoKKSz5Q?usp=drive_link)
    - Place the downloaded files in the `data/ngsim/` directory
 
 ### Project Structure
