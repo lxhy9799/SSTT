@@ -13,7 +13,7 @@ We propose a novel **Sparse Spatial-Temporal Transformer (SSTT)** model for inte
 
 ### Prerequisites
 
-- Python 3.11+
+- Python 3.10+
 - PyTorch 2.0+
 - CUDA-capable GPU (recommended)
 - Ubuntu 18.04 or later
