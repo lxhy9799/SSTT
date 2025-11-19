@@ -1,12 +1,13 @@
-# SSTT: Spatial-Temporal Transformer for Trajectory Prediction
+# Interaction-Aware Trajectory Prediction Method Based on Sparse Spatial-Temporal Transformer for Internet of Vehicles
 
-This repository contains the official implementation of **SSTT** - a spatial-temporal transformer model for vehicle trajectory prediction.
+This repository contains the official implementation of the paper **"Interaction-Aware Trajectory Prediction Method Based on Sparse Spatial-Temporal Transformer for Internet of Vehicles"** published in *IEEE Transactions on Intelligent Transportation Systems*.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20TITS-blue)](https://ieeexplore.ieee.org/)
 
 ## :newspaper: Overview
 
-SSTT is a deep learning model designed for predicting vehicle trajectories in complex traffic scenarios. The model leverages spatial-temporal attention mechanisms to capture both the spatial interactions among neighboring vehicles and temporal dependencies in trajectory sequences.
+We propose a novel **Sparse Spatial-Temporal Transformer (SSTT)** model for interaction-aware trajectory prediction in Internet of Vehicles (IoV) scenarios. The model leverages sparse attention mechanisms to efficiently capture both spatial interactions among neighboring vehicles and temporal dependencies in trajectory sequences, achieving state-of-the-art performance on the NGSIM dataset.
 
 ## :rocket: Getting Started
 
