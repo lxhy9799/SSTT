@@ -1,4 +1,6 @@
-# Interaction-Aware Trajectory Prediction Method Based on Sparse Spatial-Temporal Transformer for Internet of Vehicles
+# SSTT: Interaction-Aware Trajectory Prediction Method Based on Sparse Spatial-Temporal Transformer for Internet of Vehicles
+
+**Sparse Spatial-Temporal Transformer (SSTT)** for vehicle trajectory prediction.
 
 This repository contains the official implementation of the paper **"Interaction-Aware Trajectory Prediction Method Based on Sparse Spatial-Temporal Transformer for Internet of Vehicles"** published in *IEEE Transactions on Intelligent Transportation Systems*.
 
