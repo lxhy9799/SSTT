@@ -1,0 +1,7 @@
+einops==0.8.0
+matplotlib==3.4.3
+numpy==1.26.3
+scipy==1.14.1
+thop==0.1.1.post2209072238
+torch==2.1.1+cu118
+tqdm==4.67.0
